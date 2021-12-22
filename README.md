@@ -7,8 +7,8 @@ Project for Udacity data analysis nanodegree
 > I tried to answer different questions like
 > * which artists improved their sales over the years?
 > * What is the most popular genre for each year?
+> * Other questions related to employees and media type
 
 
-> Other questions related to employees and media type
 > * I used db browser for sqlite for this project
 
