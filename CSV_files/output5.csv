@@ -1,0 +1,21 @@
+Continent,Genre,Count
+Asia,Rock,25
+Asia,Alternative & Punk,11
+Asia,Jazz,10
+Asia,Latin,9
+Asia,Metal,8
+Australia,Rock,22
+Australia,Metal,8
+Europe,Rock,425
+Europe,Latin,155
+Europe,Alternative & Punk,129
+Europe,Metal,119
+North_America,Rock,264
+North_America,Latin,151
+North_America,Metal,104
+North_America,Alternative & Punk,86
+North_America,Jazz,35
+South_America,Rock,99
+South_America,Latin,69
+South_America,Metal,25
+South_America,Alternative & Punk,18
